@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" role="img" aria-label="Supply chain network">
+  <style>.lnk{stroke:#86b6ef;stroke-width:2;fill:none}.lbl{font:600 11px system-ui,sans-serif;fill:#52514e}.n{stroke:#fff;stroke-width:2}</style>
+  <path class="lnk" d="M50 60 C110 60 110 130 170 130"/>
+  <path class="lnk" d="M50 130 L170 130"/>
+  <path class="lnk" d="M50 200 C110 200 110 130 170 130"/>
+  <path class="lnk" d="M190 130 C240 130 240 80 290 80"/>
+  <path class="lnk" d="M190 130 C240 130 240 180 290 180"/>
+  <path class="lnk" d="M310 80 L370 50"/>
+  <path class="lnk" d="M310 80 L370 110"/>
+  <path class="lnk" d="M310 180 L370 150"/>
+  <path class="lnk" d="M310 180 L370 210"/>
+  <circle class="n" cx="40" cy="60" r="11" fill="#2a78d6"/>
+  <circle class="n" cx="40" cy="130" r="11" fill="#2a78d6"/>
+  <circle class="n" cx="40" cy="200" r="11" fill="#2a78d6"/>
+  <rect class="n" x="164" y="114" width="32" height="32" rx="6" fill="#1c5cab"/>
+  <rect class="n" x="286" y="66" width="28" height="28" rx="6" fill="#eda100"/>
+  <rect class="n" x="286" y="166" width="28" height="28" rx="6" fill="#eda100"/>
+  <circle class="n" cx="378" cy="50" r="8" fill="#1baf7a"/>
+  <circle class="n" cx="378" cy="110" r="8" fill="#1baf7a"/>
+  <circle class="n" cx="378" cy="150" r="8" fill="#1baf7a"/>
+  <circle class="n" cx="378" cy="210" r="8" fill="#1baf7a"/>
+  <text class="lbl" x="18" y="240">Suppliers</text>
+  <text class="lbl" x="158" y="170">Plant</text>
+  <text class="lbl" x="268" y="240">Warehouses</text>
+  <text class="lbl" x="350" y="240">Customers</text>
+</svg>
